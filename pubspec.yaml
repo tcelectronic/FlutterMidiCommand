@@ -16,7 +16,7 @@ dependencies:
   flutter_midi_command_windows:
     git:
       url: https://github.com/MathiasLDamgard/TCflutter_midi_command_windows.git
-      ref: 5d622f18aa73677bacf112bb6a89133c7ba5f2ad
+      ref: 8574743a03f37e896f1b79c3ffae3ad5bf204e86
       
     
 dev_dependencies:
